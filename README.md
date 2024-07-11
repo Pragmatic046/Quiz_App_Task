@@ -1,5 +1,5 @@
 # Quiz App Project
-## React + Vite
+## Please check the master branch
 This project is the assignment that has been given at SMIT by sir Mehtab Alam.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
